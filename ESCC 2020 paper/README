@@ -1,1 +1,9 @@
-
+Fortran and R code supporting ESCC trends paper. 
+How To Access SEER Data:
+The SEER*Stat statistical software provides a convenient, intuitive mechanism for the analysis of SEER and other cancer-related databases. It is a
+powerful personal computer tool to produce statistics for studying the impact of cancer on a population. SEER research data files and SEER*Stat
+software are available to users in three ways: (i) through SEER*Stat in a client server mode, (ii) downloadable binary and text data in
+compressed format through your Internet connection and (iii) via DVD discs shipped directly to you.
+A signed SEER Data-Use Agreement form is required to access the SEER data. Request forms may be accessed at https://seer.cancer.gov/seertrack/
+data/request. The SEER Program will process your request within 2 business days of receiving your signed agreement, and there is no charge for this
+service. For detailed instructions on accessing SEER data, please visit our Web site at: https://seer.cancer.gov/data/. 
